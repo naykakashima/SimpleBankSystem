@@ -2,6 +2,8 @@
 
 A basic console-based banking system written in C# for practicing OOP principles and user input handling.
 
+Took around 2 hours to make without AI
+
 ## Features
 
 - Account creation with username
